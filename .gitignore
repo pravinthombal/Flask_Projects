@@ -1,0 +1,8 @@
+*.env
+*.sqlite3
+*.py[cod]
+news/
+menv/
+notes.txt
+description.txt
+
